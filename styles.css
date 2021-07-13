@@ -1,0 +1,27 @@
+.body_background{
+background-image: url("https://cdn.britannica.com/60/182360-050-CD8878D6/Avengers-Age-of-Ultron-Joss-Whedon.jpg");
+}
+#myCanvas{
+background-color: white;
+border-style: ridge;
+border-width: 15px;
+}
+#current_width{
+color: black;
+}
+#current_height{
+color: black;
+}
+h2{
+width: 250px;
+height: 30px;
+border-radius: 20%;
+}
+h3{
+display: inline-block;
+}
+#head_info{
+width: 600px;
+border-radius: 10px;
+margin-bottom: 10px;
+}
